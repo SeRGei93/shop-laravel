@@ -1,5 +1,5 @@
 @extends('admin.layouts.app_admin')
 
 @section('content')
-	<h1>Это дашборд</h1>
+	<h4>Это дашборд</h4>
 @endsection
